@@ -25,9 +25,9 @@ body {
 #image {
 	width: 900px;
 	height: 500px;
-	margin-left: 150px;
-	margin-right: 150px;
-	margin-top: 100px;
+	display: inline-block;
+	margin: 150px 150px;
+	padding: 10px;
 }
 div {
 	margin-right: 98px;
