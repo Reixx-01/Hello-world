@@ -29,40 +29,6 @@ body {
 	margin: 150px 150px;
 	padding: 10px;
 }
-div {
-	margin-right: 98px;
-}
-p.heading {
-	font-size: 37px;
-	text-align: left;
-	font-weight: bold;
-	margin-left: 250px;
-	margin-right: 250px;
-	margin-top: 20px;
-}
-p.paragraph {
-	font-size: 27px;
-	margin-left: 250px;
-	margin-right: 250px;
-	margin-top: 20px;
-	opacity: 0.8;
-	line-height: 50px;
-	font-family: sans-serif;
-}
-span.bold {
-	color: black;
-	font-weight: bold;
-	opacity: 1;
-}
-span.italic {
-	color: black;
-	font-style: italic;
-}
-span.cool {
-	color: black;
-	font-weight: bold;
-	font-style: italic;
-}
 h1 {
 	font-size: 30px;
 	font-family: sans-serif;
