@@ -63,4 +63,8 @@ span.cool {
 	font-weight: bold;
 	font-style: italic;
 }
+h1 {
+	font-size: 40px;
+	font-family:sans-serif;
+}
 
